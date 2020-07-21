@@ -1,0 +1,20 @@
+{
+    "NAME": {
+     "ipAddress": "192.16.0.1",
+     "subnetMask": "255.255.255.0",
+     "defaultIPGateway": "192.16.0.1",
+     "dnsServerSearchOrder": "192.16.0.1"
+    },
+    "NAME1": {
+        "ipAddress": "192.168.0.1",
+        "subnetMask": "255.255.255.0",
+        "defaultIPGateway": "192.168.0.1",
+        "dnsServerSearchOrder": "192.168.0.1"
+       },
+    "NAME2": {
+     "ipAddress": "19.168.0.1",
+     "subnetMask": "255.255.255.0",
+     "defaultIPGateway": "19.168.0.1",
+     "dnsServerSearchOrder": "19.168.0.1"
+    }
+}

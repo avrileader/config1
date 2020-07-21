@@ -1,0 +1,26 @@
+{
+    "宿迁中医院": {
+     "ipAddress": "192.168.0.105",
+     "subnetMask": "255.255.255.0",
+     "defaultIPGateway": "192.168.0.1",
+     "dnsServerSearchOrder": "192.168.0.1"
+    },
+    "HOME SRV": {
+     "ipAddress": "192.168.1.105",
+     "subnetMask": "255.255.255.0",
+     "defaultIPGateway": "192.168.1.1",
+     "dnsServerSearchOrder": "192.168.1.1"
+    },
+    "上海金山医院": {
+     "ipAddress": "192.168.2.22",
+     "subnetMask": "255.255.255.0",
+     "defaultIPGateway": "192.168.2.1",
+     "dnsServerSearchOrder": "192.168.2.1"
+    },
+    "公司编码器": {
+     "ipAddress": "192.168.3.22",
+     "subnetMask": "255.255.255.0",
+     "defaultIPGateway": "192.168.3.1",
+     "dnsServerSearchOrder": "192.168.3.1"
+    }
+}
